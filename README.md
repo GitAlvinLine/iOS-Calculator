@@ -1,1 +1,2 @@
-This is a simple calculator that does basic math operations like addition, subtraction, division, and multiplication. 
+# Simple Calculator that does basic operations like add, subtract, divide, and multiple.
+# It is a prototype and not a full replica of the iOS Calculator. 
